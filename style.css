@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*this is my header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -86,7 +86,7 @@ section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*this is the aside area*/
 .benefit-details h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,7 +121,7 @@ section {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*this my heart section*/
 .footer {
     padding: 30px;
     clear: both;
